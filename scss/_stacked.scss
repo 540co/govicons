@@ -1,0 +1,20 @@
+// Stacked Icons
+// -------------------------
+
+.#{$gi-css-prefix}-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+.#{$gi-css-prefix}-stack-1x, .#{$gi-css-prefix}-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.#{$gi-css-prefix}-stack-1x { line-height: inherit; }
+.#{$gi-css-prefix}-stack-2x { font-size: 2em; }
+.#{$gi-css-prefix}-inverse { color: $gi-inverse; }

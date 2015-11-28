@@ -1,0 +1,13 @@
+// reference - [@Stephn-R](https://github.com/sass/sass/issues/1395#issuecomment-57483844)
+// converts 1 or more characters into a unicode
+// unicode("e655"); // "\e655"
+
+@function unicode($str){
+    @return unquote("\"") + $str + unquote("\"");
+}
+
+@each $govicons-name, $govicons-value in $govicons {
+    .#{$gi-css-prefix}-#{$govicons-name}:before {
+        content: unicode($govicons-value);
+    }
+}

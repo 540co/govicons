@@ -267,7 +267,7 @@ header .details a {
   border-radius: 10px;
   color: #006693;
   text-shadow: 0px 1px 0px #ffffff;
-  background-color: rgba(146, 77, 163, 0.1);
+  background-color: rgba(41, 128, 185, 0.1);
 }
 .instructions:before,
 .instructions:after {
@@ -365,7 +365,7 @@ footer a {
   }
 }
 .icon-wrap .icon-name {
-  font-size: 12px;
+  font-size: 14px;
   color: #4d4d4d;
   line-height: 1.1;
 }

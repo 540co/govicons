@@ -176,7 +176,7 @@
 .gi-script:before {
 	content: "\e902";
 }
-.gi-clock:before {
+.gi-clock-o:before {
 	content: "\e903";
 }
 .gi-code:before {
@@ -212,7 +212,7 @@
 .gi-heartbeat:before {
 	content: "\e90b";
 }
-.gi-ship:before {
+.gi-ship-front:before {
 	content: "\e911";
 }
 .gi-bus-front:before {
@@ -245,6 +245,7 @@
 .gi-desktop:before {
 	content: "\e91c";
 }
+.gi-mobile-phone:before,
 .gi-mobile:before {
 	content: "\e91d";
 }
@@ -375,7 +376,7 @@
 .gi-dc-map:before {
 	content: "\e600";
 }
-.gi-us-flag:before {
+.gi-us-flag-wavy:before {
 	content: "\e948";
 }
 .gi-us-map:before {

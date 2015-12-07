@@ -10,6 +10,7 @@
 	src:url('../fonts/govicons-webfont.eot') format('embedded-opentype'),
 		url('../fonts/govicons-webfont.ttf') format('truetype'),
 		url('../fonts/govicons-webfont.woff') format('woff'),
+		url('../fonts/govicons-webfont.woff2') format('woff2'),
 		url('../fonts/govicons-webfont.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
@@ -155,6 +156,49 @@
   color: #ffffff;
 }
 
+.gi-sol:before,
+.gi-statue-of-liberty:before {
+	content: "\e95c";
+}
+.gi-liberty-bell:before {
+	content: "\e95d";
+}
+.gi-users:before {
+	content: "\e95a";
+}
+.gi-user-politician:before {
+	content: "\e959";
+}
+.gi-shield-o:before {
+	content: "\e956";
+}
+.gi-shield:before {
+	content: "\e957";
+}
+.gi-us-shield:before {
+	content: "\e958";
+}
+.gi-missile:before {
+	content: "\e954";
+}
+.gi-satellite:before {
+	content: "\e955";
+}
+.gi-drone:before {
+	content: "\e953";
+}
+.gi-security-camera:before {
+	content: "\e94f";
+}
+.gi-textile:before {
+	content: "\e950";
+}
+.gi-leaf:before {
+	content: "\e951";
+}
+.gi-recycle:before {
+	content: "\e952";
+}
 .gi-comment:before {
 	content: "\e90f";
 }
@@ -176,7 +220,7 @@
 .gi-script:before {
 	content: "\e902";
 }
-.gi-clock:before {
+.gi-clock-o:before {
 	content: "\e903";
 }
 .gi-code:before {
@@ -212,7 +256,7 @@
 .gi-heartbeat:before {
 	content: "\e90b";
 }
-.gi-ship:before {
+.gi-ship-front:before {
 	content: "\e911";
 }
 .gi-bus-front:before {
@@ -245,6 +289,7 @@
 .gi-desktop:before {
 	content: "\e91c";
 }
+.gi-mobile-phone:before,
 .gi-mobile:before {
 	content: "\e91d";
 }
@@ -375,8 +420,11 @@
 .gi-dc-map:before {
 	content: "\e600";
 }
-.gi-us-flag:before {
+.gi-us-flag-wavy:before {
 	content: "\e948";
+}
+.gi-us-flag-straight:before {
+	content: "\e95b";
 }
 .gi-us-map:before {
 	content: "\e946";
@@ -388,7 +436,7 @@
 .gi-washington-monument:before {
 	content: "\e94a";
 }
-.gi-capital:before {
+.gi-capitol:before {
 	content: "\e94b";
 }
 .gi-pentagon:before {

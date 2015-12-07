@@ -17,7 +17,7 @@
     "./css/*",
     "./fonts/*",
     "./less/govicons.less",
-    "./less/govicons.scss"
+    "./scss/govicons.scss"
   ],
   "ignore": [
     "*/.*",

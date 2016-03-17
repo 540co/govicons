@@ -1,0 +1,24 @@
+{
+  "name": "govicons",
+  "description": "Govicons - Government font and CSS toolkit",
+  "version": "1.2.0",
+  "style": "css/govicons.css",
+  "keywords": ["gov", "icons", "Govicons", "icon", "font", "bootstrap"],
+  "homepage": "http://govicons.io/",
+  "bugs": {
+    "url" : "http://github.com/540co/govicons/issues"
+  },
+  "author": {
+    "name": "Mark Ostrander"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/540co/govicons.git"
+  },
+  "license": "(OFL-1.1 AND MIT)",
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}

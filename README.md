@@ -1,6 +1,6 @@
 ## Govicons
 
-*Version 1.1.0*
+*Version 1.2.0*
 
 **A Government font and CSS toolkit, inspired by [Font-Awesome](http://fontawesome.io)**.
 
@@ -19,10 +19,16 @@ Get started at <http://govicons.io>!
 ```html
 <link rel="stylesheet" href="path/to/govicons/css/govicons.min.css">
 ```
-#### Install with Bower
+#### Install with bower
 
 ```shell
 $ bower install govicons
+```
+
+#### Install with npm
+
+```shell
+$ npm install govicons
 ```
 
 ## Contributing
@@ -36,6 +42,6 @@ If you want to add icon ideas, icon art, or other fixes/changes to how the packa
 
 ## Licensing
 
-- Weather Icons licensed under [SIL OFL 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+- Gov Icons licensed under [SIL OFL 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 - Code licensed under [MIT License](http://opensource.org/licenses/mit-license.html)
 - Documentation licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)

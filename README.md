@@ -8,16 +8,15 @@ Govicons is a icon font and CSS toolkit with 100 government themed icons, for ea
 
 ![Govicons header](assets/govicons-header.png)
 
-
 ## Getting started
 
 - Download and place the entire `govicons` directory into your project
-
 - In the `<head>` of your html, reference the location to your govicons.min.css
 
 ```html
 <link rel="stylesheet" href="path/to/govicons/css/govicons.min.css">
 ```
+
 #### Install with bower
 
 ```shell

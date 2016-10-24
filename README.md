@@ -4,7 +4,7 @@
 
 **A Government font and CSS toolkit, inspired by [Font-Awesome](http://fontawesome.io)**.
 
-Govicons is a icon font and CSS toolkit with 100 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Govicons is created and maintained by [540](http://540.co).
+Govicons is a icon font and CSS toolkit with 115 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Govicons is created and maintained by [540](http://540.co).
 
 ![Govicons header](assets/govicons-header.png)
 

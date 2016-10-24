@@ -156,6 +156,66 @@
   color: #ffffff;
 }
 
+.gi-barcode:before {
+  content: "\e95e";
+}
+.gi-ruler:before {
+  content: "\e95f";
+}
+.gi-construction:before {
+  content: "\e960";
+}
+.gi-fingerprint:before {
+  content: "\e961";
+}
+.gi-nuclear-plant:before {
+  content: "\e962";
+}
+.gi-radioactive:before {
+  content: "\e963";
+}
+.gi-biohazard:before {
+  content: "\e964";
+}
+.gi-microscope:before {
+  content: "\e965";
+}
+.gi-dna:before {
+  content: "\e966";
+}
+.gi-road-sign:before {
+  content: "\e967";
+}
+.gi-road:before {
+  content: "\e968";
+}
+.gi-road-barricade:before {
+  content: "\e969";
+}
+.gi-submarine:before {
+  content: "\e96a";
+}
+.gi-radar:before {
+  content: "\e96b";
+}
+.gi-reticle-dot:before {
+  content: "\e96c";
+}
+.gi-reticle-crosshair:before {
+  content: "\e96d";
+}
+.gi-dogtags:before {
+  content: "\e96e";
+}
+.gi-medal-circle:before {
+  content: "\e96f";
+}
+.gi-medal-star:before {
+  content: "\e970";
+}
+.gi-18F-logo:before {
+  content: "\e971";
+}
 .gi-sol:before,
 .gi-statue-of-liberty:before {
 	content: "\e95c";

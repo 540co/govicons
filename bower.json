@@ -26,7 +26,6 @@
     "*.yml",
     "Gemfile",
     "Gemfile.lock",
-    "*.md",
-    "assets"
+    "*.md"
   ]
 }

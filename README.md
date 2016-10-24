@@ -6,7 +6,7 @@
 
 Govicons is a icon font and CSS toolkit with 115 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Govicons is created and maintained by [540](http://540.co).
 
-![Govicons header](assets/govicons-header.png)
+![](https://media1.giphy.com/media/5ME9j9hbSJYrK/200.gif)
 
 ## Getting started
 
@@ -31,8 +31,6 @@ $ npm install govicons
 
 #### Explore
 Get started and learn how to use Govicons at <http://govicons.io>!
-
-![](https://media1.giphy.com/media/5ME9j9hbSJYrK/200.gif)
 
 ## Contributing
 

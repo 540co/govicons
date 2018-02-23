@@ -13,24 +13,23 @@
 		url('../fonts/govicons-webfont.woff2') format('woff2'),
 		url('../fonts/govicons-webfont.svg') format('svg');
 	font-style: normal;
-  font-weight: 400;
+  font-weight: normal;
 }
 
 .gi {
 	-moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  display: inline-block;
-  font-style: normal;
-  font-variant: normal;
+	display: inline-block;
+  font: normal normal normal 14px/1 Govicons;
+  font-size: inherit;
   text-rendering: auto;
-  line-height: 1;
 }
 
 /* makes the font 33% larger relative to the icon container */
 .gi-lg {
 	font-size: 1.33333em;
   line-height: 0.75em;
-  vertical-align: -.0667em;
+  vertical-align: -15%;
 }
 .gi-xs {
   font-size: .75em;
@@ -604,9 +603,4 @@ readers do not read off random characters that represent icons */
   overflow: visible;
   position: static;
   width: auto;
-}
-
-.gi {
-  font-family: 'Govicons';
-  font-weight: 900;
 }

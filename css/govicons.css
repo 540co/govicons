@@ -1,5 +1,5 @@
 /*
- *  Govicons by @540co - https://github.com/540co/govicons - @540co
+ *  Govicons v1.4.0 by @540co - https://github.com/540co/govicons - @540co
  *  License (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
@@ -12,25 +12,33 @@
 		url('../fonts/govicons-webfont.woff') format('woff'),
 		url('../fonts/govicons-webfont.woff2') format('woff2'),
 		url('../fonts/govicons-webfont.svg') format('svg');
-	font-weight: normal;
 	font-style: normal;
+  font-weight: normal;
 }
 
 .gi {
+	-moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 	display: inline-block;
   font: normal normal normal 14px/1 Govicons;
   font-size: inherit;
   text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  transform: translate(0, 0);
 }
 
 /* makes the font 33% larger relative to the icon container */
 .gi-lg {
-  font-size: 1.33333333em;
+	font-size: 1.33333em;
   line-height: 0.75em;
-  vertical-align: -15%;
+  vertical-align: -.0667em;
+}
+.gi-xs {
+  font-size: .75em;
+}
+.gi-sm {
+  font-size: .875em;
+}
+.gi-1x {
+  font-size: 1em;
 }
 .gi-2x {
   font-size: 2em;
@@ -44,27 +52,44 @@
 .gi-5x {
   font-size: 5em;
 }
+.gi-6x {
+  font-size: 6em;
+}
+.gi-7x {
+  font-size: 7em;
+}
+.gi-8x {
+  font-size: 8em;
+}
+.gi-9x {
+  font-size: 9em;
+}
+.gi-10x {
+  font-size: 10em;
+}
 .gi-fw {
-  width: 1.28571429em;
+  width: 1.25em;
   text-align: center;
 }
 .gi-ul {
   padding-left: 0;
-  margin-left: 2.14285714em;
+  margin-left: 2.5em;
   list-style-type: none;
 }
 .gi-ul > li {
   position: relative;
 }
 .gi-li {
-  position: absolute;
-  left: -2.14285714em;
-  width: 2.14285714em;
-  top: 0.14285714em;
-  text-align: center;
+	left: -2em;
+ 	position: absolute;
+ 	text-align: center;
+ 	width: 2em;
+ 	line-height: inherit;
 }
-.gi-li.gi-lg {
-  left: -1.85714286em;
+.gi-border {
+  border: solid 0.08em #eee;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
 }
 .gi-spin {
   -webkit-animation: gi-spin 2s infinite linear;
@@ -80,8 +105,8 @@
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
 @keyframes gi-spin {
@@ -90,8 +115,8 @@
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
 .gi-rotate-90 {
@@ -129,6 +154,7 @@
 :root .gi-rotate-270,
 :root .gi-flip-horizontal,
 :root .gi-flip-vertical {
+	-webkit-filter: none;
   filter: none;
 }
 .gi-stack {
@@ -153,9 +179,53 @@
   font-size: 2em;
 }
 .gi-inverse {
-  color: #ffffff;
+  color: #fff;
 }
 
+/* Gov Icons uses the Unicode Private Use Area (PUA) to ensure screen
+readers do not read off random characters that represent icons */
+.gi-ambulance:before {
+  content: "\e980";
+}
+.gi-factory:before {
+  content: "\e972";
+}
+.gi-file-excel:before {
+  content: "\e973";
+}
+.gi-file-word:before {
+  content: "\e974";
+}
+.gi-hard-hat:before {
+  content: "\e975";
+}
+.gi-jefferson-memorial:before {
+  content: "\e976";
+}
+.gi-lincoln-memorial:before {
+  content: "\e977";
+}
+.gi-metro-front:before {
+  content: "\e978";
+}
+.gi-pallet:before {
+  content: "\e979";
+}
+.gi-poison:before {
+  content: "\e97a";
+}
+.gi-poison-bottle:before {
+  content: "\e97b";
+}
+.gi-train-front:before {
+  content: "\e97c";
+}
+.gi-wheel-barrow:before {
+  content: "\e97d";
+}
+.gi-white-house:before {
+  content: "\e97e";
+}
 .gi-barcode:before {
   content: "\e95e";
 }
@@ -213,6 +283,7 @@
 .gi-medal-star:before {
   content: "\e970";
 }
+.gi-18f:before,
 .gi-18F-logo:before {
   content: "\e971";
 }
@@ -505,9 +576,31 @@
 .gi-building:before {
 	content: "\e949";
 }
+.gi-fedapi:before,
 .gi-540-fedapi:before {
 	content: "\e933";
 }
+.gi-540:before,
 .gi-540-logo:before {
 	content: "\e900";
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
 }

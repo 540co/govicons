@@ -1,0 +1,8 @@
+// Bordered & Pulled
+// -------------------------
+
+.#{$gi-css-prefix}-border {
+  padding: .2em .25em .15em;
+  border: solid .08em $gi-border-color;
+  border-radius: .1em;
+}

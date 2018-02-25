@@ -32,6 +32,10 @@ $ npm install govicons
 #### Explore
 Get started and learn how to use Gov Icons at <http://govicons.io>!
 
+## Change Log
+- We'll keep track of each release in the [CHANGELOG.md](./CHANGELOG.md)
+- Looking for older versions of Gov Icons? Check the [releases](https://github.com/540co/govicons/releases).
+
 ## Contributing
 
 If you want to add icon ideas, icon art, or other fixes/changes to how the package works, feel free to submit an issue.

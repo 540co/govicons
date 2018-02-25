@@ -5,12 +5,26 @@ $gi-font-path:        "../fonts" !default;
 $gi-font-size-base:   14px !default;
 $gi-line-height-base: 1 !default;
 $gi-css-prefix:       gi !default;
-$gi-version:          "1.0.0" !default;
+$gi-version:          "1.4.0" !default;
 $gi-border-color:     #eee !default;
 $gi-inverse:          #fff !default;
 $gi-li-width:         (30em / 14) !default;
 
 $govicons: (
+  ambulance: \e980,
+  factory: \e972,
+  file-excel: \e973,
+  file-word: \e974,
+  hard-hat: \e975,
+  jefferson-memorial: \e976,
+  lincoln-memorial: \e977,
+  metro-front: \e978,
+  pallet: \e979,
+  poison: \e97a,
+  poison-bottle: \e97b,
+  train-front: \e97c,
+  wheel-barrow: \e97d,
+  white-house: \e97e,
   barcode: \e95e,
   ruler: \e95f,
   construction: \e960,
@@ -30,6 +44,7 @@ $govicons: (
   dogtags: \e96e,
   medal-circle: \e96f,
   medal-star: \e970,
+  18f: \e971,
   18F-logo: \e971,
   security-camera: \e94f,
   textile: \e950,
@@ -134,6 +149,8 @@ $govicons: (
   capital: \e94b,
   pentagon: \e94c,
   building: \e949,
+  fedapi: \e933,
   540-fedapi: \e933,
   540-logo: \e900,
+  540: \e900
 );

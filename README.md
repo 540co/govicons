@@ -1,10 +1,10 @@
-## Govicons
+## Gov Icons
 
-*Version 1.3.0*
+*Version 1.4.0*
 
 **A Government font and CSS toolkit, inspired by [Font-Awesome](http://fontawesome.io)**.
 
-Govicons is a icon font and CSS toolkit with 115 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Govicons is created and maintained by [540](http://540.co).
+Gov Icons is a icon font and CSS toolkit with 129 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Gov Icons is created and maintained by [540](http://540.co).
 
 ![](https://media1.giphy.com/media/5ME9j9hbSJYrK/200.gif)
 
@@ -30,7 +30,11 @@ $ npm install govicons
 ```
 
 #### Explore
-Get started and learn how to use Govicons at <http://govicons.io>!
+Get started and learn how to use Gov Icons at <http://govicons.io>!
+
+## Change Log
+- We'll keep track of each release in the [CHANGELOG.md](./CHANGELOG.md)
+- Looking for older versions of Gov Icons? Check the [releases](https://github.com/540co/govicons/releases).
 
 ## Contributing
 

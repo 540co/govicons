@@ -18,18 +18,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fix typos in demo site.
 
 
-## [1.3.0] - 2016-10-24
+## [1.3.0](https://github.com/540co/govicons/releases/tag/v1.3.0) - 2016-10-24
 ### Added
 - Adding barcode, ruler, construction, fingerprint, nuclear-plant, radioactive, biohazard, microscope, dna, road-sign, road, road-barricade, submarine, radar, reticle-dot, reticle-crosshair, dogtags, medal-circle, medal-star, 18f-logo icons
 
-## [1.2.0] - 2016-03-17
+## [1.2.0](https://github.com/540co/govicons/releases/tag/1.2.0) - 2016-03-17
 ### Added
 - New NPM package `govicons`
 
 ### Changed
 - Fix typos in LICENSE section of README
 
-## [1.1.0] - 2017-12-07
+## [1.1.0](https://github.com/540co/govicons/releases/tag/1.1.0) - 2017-12-07
 ### Added
 - Adding statue-of-liberty, liberty-bell, users, user-politician, shield-o, us-shield, missile, satellite, drone, security-camera, textile, leaf, recycle, mobile-phone, us-flag-straight icons
 - WOFF File Format 2.0 (.woff2) for web fonts
@@ -45,7 +45,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - SASS reference link in bower json
 
 
-## 1.0.0 - 2015-11-28
+## [1.0.0](https://github.com/540co/govicons/releases/tag/1.0.0) - 2015-11-28
 ### Added
 - 80 government themed icons
 - Initial CSS, SASS, and LESS framework

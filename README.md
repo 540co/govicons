@@ -37,13 +37,7 @@ Get started and learn how to use Gov Icons at <http://govicons.io>!
 - Looking for older versions of Gov Icons? Check the [releases](https://github.com/540co/govicons/releases).
 
 ## Contributing
-
-If you want to add icon ideas, icon art, or other fixes/changes to how the package works, feel free to submit an issue.
-
-#### Requesting new icons
-
-- Title your new issue Icon request: icon-name (e.g., Icon request: icon-vote).
-- Include a few use cases for your requested icon. How do you plan on using it?
+Please read through our [contributing guidelines](./CONTRIBUTING.mg). Included are directions for opening issues.
 
 ## Licensing
 

@@ -37,7 +37,7 @@ Get started and learn how to use Gov Icons at <http://govicons.io>!
 - Looking for older versions of Gov Icons? Check the [releases](https://github.com/540co/govicons/releases).
 
 ## Contributing
-Please read through our [contributing guidelines](./CONTRIBUTING.mg). Included are directions for opening issues.
+Please read through our [contributing guidelines](./CONTRIBUTING.md). Included are directions for opening issues.
 
 ## Licensing
 

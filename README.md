@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".assets/govicons-logo.svg" alt="Gov Icons Logo" />
+  <img src=".assets/govicons-logo.svg" alt="Gov Icons Logo" height="200"/>
 </h1>
 
 ## Gov Icons [![npm version](https://badge.fury.io/js/govicons.svg)](https://badge.fury.io/js/govicons) [![Bower version](https://badge.fury.io/bo/govicons.svg)](https://badge.fury.io/bo/govicons)

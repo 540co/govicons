@@ -2,15 +2,9 @@
   <img src=".assets/govicons-logo.svg" alt="Gov Icons Logo" />
 </h1>
 
----
+## Gov Icons [![npm version](https://badge.fury.io/js/govicons.svg)](https://badge.fury.io/js/govicons) [![Bower version](https://badge.fury.io/bo/govicons.svg)](https://badge.fury.io/bo/govicons)
 
-*A Government font and CSS toolkit, inspired by [Font-Awesome](http://fontawesome.io)*.
-
----
-
-## Gov Icons
-
-[![npm version](https://badge.fury.io/js/govicons.svg)](https://badge.fury.io/js/govicons) [![Bower version](https://badge.fury.io/bo/govicons.svg)](https://badge.fury.io/bo/govicons)
+**A Government font and CSS toolkit, inspired by [Font-Awesome](http://fontawesome.io)**.
 
 Gov Icons is a icon font and CSS toolkit with 129 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Gov Icons is created and maintained by [540](http://540.co).
 

@@ -1,7 +1,7 @@
 {
   "name": "govicons",
   "description": "Govicons - Government font and CSS toolkit",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "keywords": [
     "government",
     "font",
@@ -26,6 +26,7 @@
     "*.yml",
     "Gemfile",
     "Gemfile.lock",
-    "*.md"
+    "*.md",
+    "./assets"
   ]
 }

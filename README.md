@@ -1,8 +1,14 @@
-## Gov Icons
+<h1 align="center">
+  <img src=".assets/govicons-logo.svg" alt="Gov Icons Logo" height="200"/>
+</h1>
 
-*Version 1.4.0*
+<p align="center">
+<a href="https://badge.fury.io/js/govicons"><img src="https://badge.fury.io/js/govicons.svg" alt="npm version" height="18"></a> <a href="https://badge.fury.io/bo/govicons"><img src="https://badge.fury.io/bo/govicons.svg" alt="Bower version" height="18"></a>
+</p>
 
-**A Government font and CSS toolkit, inspired by [Font-Awesome](http://fontawesome.io)**.
+<p align="center">A Government font and CSS toolkit, inspired by <a href="http://fontawesome.io">Font-Awesome</a>.</p>
+
+---
 
 Gov Icons is a icon font and CSS toolkit with 129 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Gov Icons is created and maintained by [540](http://540.co).
 
@@ -37,13 +43,7 @@ Get started and learn how to use Gov Icons at <http://govicons.io>!
 - Looking for older versions of Gov Icons? Check the [releases](https://github.com/540co/govicons/releases).
 
 ## Contributing
-
-If you want to add icon ideas, icon art, or other fixes/changes to how the package works, feel free to submit an issue.
-
-#### Requesting new icons
-
-- Title your new issue Icon request: icon-name (e.g., Icon request: icon-vote).
-- Include a few use cases for your requested icon. How do you plan on using it?
+Please read through our [contributing guidelines](./CONTRIBUTING.md). Included are directions for opening issues.
 
 ## Licensing
 

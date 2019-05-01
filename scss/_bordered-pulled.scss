@@ -1,0 +1,45 @@
+// Bordered & Pulled
+// -------------------------
+
+.#{$gi-css-prefix}-border {
+  padding: .2em .25em .15em;
+  border: solid .08em $gi-border-color;
+  border-radius: .1em;
+}
+
+.#{$gi-css-prefix}-pull-left {
+  float: left;
+}
+
+.#{$gi-css-prefix}-pull-right {
+  float: right;
+}
+
+.#{$gi-css-prefix} {
+  &.#{$gi-css-prefix}-pull-left {
+    margin-right: .3em;
+  }
+
+  &.#{$gi-css-prefix}-pull-right {
+    margin-left: .3em;
+  }
+}
+
+/* Deprecated */
+.pull-right {
+  float: right;
+}
+
+.pull-left {
+  float: left;
+}
+
+.#{$gi-css-prefix} {
+  &.pull-left {
+    margin-right: .3em;
+  }
+
+  &.pull-right {
+    margin-left: .3em;
+  }
+}

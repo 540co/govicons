@@ -91,6 +91,31 @@
   border-radius: .1em;
   padding: .2em .25em .15em;
 }
+.fa-pull-left {
+  float: left;
+}
+.fa-pull-right {
+  float: right;
+}
+.fa.fa-pull-left {
+  margin-right: .3em;
+}
+.fa.fa-pull-right {
+  margin-left: .3em;
+}
+/* Deprecated */
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.fa.pull-left {
+  margin-right: .3em;
+}
+.fa.pull-right {
+  margin-left: .3em;
+}
 .gi-spin {
   -webkit-animation: gi-spin 2s infinite linear;
   animation: gi-spin 2s infinite linear;

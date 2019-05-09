@@ -26,24 +26,31 @@ Gov Icons is a icon font and CSS toolkit with 129 government themed icons, for e
 #### Install with bower
 
 ```shell
-$ bower install govicons
+bower install govicons
 ```
 
 #### Install with npm
 
 ```shell
-$ npm install govicons
+npm install govicons
 ```
 
 #### Explore
+
 Get started and learn how to use Gov Icons at <http://govicons.io>!
 
 ## Change Log
+
 - We'll keep track of each release in the [CHANGELOG.md](./CHANGELOG.md)
 - Looking for older versions of Gov Icons? Check the [releases](https://github.com/540co/govicons/releases).
 
 ## Contributing
+
 Please read through our [contributing guidelines](./CONTRIBUTING.md). Included are directions for opening issues.
+
+## Related Projects
+
+- [govicons-sketch](https://github.com/540co/govicons-sketch) - Gov icons as a Sketch library
 
 ## Licensing
 

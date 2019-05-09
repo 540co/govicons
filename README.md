@@ -16,6 +16,16 @@ Gov Icons is a icon font and CSS toolkit with 129 government themed icons, for e
 
 ## Getting started
 
+#### Quick Start CDN
+
+Load and insert from CDN link.
+
+```html
+  <link rel="stylesheet" href="https://unpkg.com/govicons@latest/css/govicons.min.css">
+```
+
+#### Usage
+
 - Download and place the entire `govicons` directory into your project
 - In the `<head>` of your html, reference the location to your govicons.min.css
 

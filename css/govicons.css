@@ -1,5 +1,5 @@
 /*
- *  Govicons v1.4.1 by @540co - https://github.com/540co/govicons - @540co
+ *  Govicons v1.5.0 by @540co - https://github.com/540co/govicons - @540co
  *  License (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
@@ -90,6 +90,31 @@
   border: solid 0.08em #eee;
   border-radius: .1em;
   padding: .2em .25em .15em;
+}
+.fa-pull-left {
+  float: left;
+}
+.fa-pull-right {
+  float: right;
+}
+.fa.fa-pull-left {
+  margin-right: .3em;
+}
+.fa.fa-pull-right {
+  margin-left: .3em;
+}
+/* Deprecated */
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.fa.pull-left {
+  margin-right: .3em;
+}
+.fa.pull-right {
+  margin-left: .3em;
 }
 .gi-spin {
   -webkit-animation: gi-spin 2s infinite linear;

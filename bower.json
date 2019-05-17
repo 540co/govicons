@@ -1,14 +1,15 @@
 {
   "name": "govicons",
   "description": "Govicons - Government font and CSS toolkit",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "keywords": [
     "government",
     "font",
     "css",
     "icons",
     "font-icon",
-    "icon"
+    "icon",
+    "svg"
   ],
   "homepage": "https://govicons.io",
   "dependencies": {},

@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.6.0](https://github.com/540co/govicons/releases/tag/1.6.0) - 2020-01-03
+
+### Added
+
+- Adding anchor, astronaut-helmet, bald-eagle, logo-govicons, star, signal, and space-shuttle icons
+
+### Changed
+
+- Refreshed demo site.
+- Updated 540-logo svg
+
 ## [1.5.1](https://github.com/540co/govicons/releases/tag/1.5.1) - 2019-05-17
 
 ### Fixed

@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-<a href="https://badge.fury.io/js/govicons"><img src="https://badge.fury.io/js/govicons.svg" alt="npm version" height="18"></a> <a href="https://badge.fury.io/bo/govicons"><img src="https://badge.fury.io/bo/govicons.svg" alt="Bower version" height="18"></a>
+<a href="https://badge.fury.io/js/govicons"><img src="https://badge.fury.io/js/govicons.svg" alt="npm version" height="18"></a>
 </p>
 
 <p align="center">A Government font and CSS toolkit, inspired by <a href="http://fontawesome.io">Font-Awesome</a>.</p>
 
 ---
 
-Gov Icons is a icon font and CSS toolkit with 129 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Gov Icons is created and maintained by [540](http://540.co).
+Gov Icons is a icon font and CSS toolkit with 136 government themed icons, for easy scalable vector graphics on projects that needs government based icons. Gov Icons is created and maintained by [540](http://540.co).
 
 ![](https://media1.giphy.com/media/5ME9j9hbSJYrK/200.gif)
 

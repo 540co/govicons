@@ -8,7 +8,8 @@
       "grid": 16,
       "tags": [
         "anchor"
-      ]
+      ],
+      "defaultCode": 59775
     },
     {
       "paths": [
@@ -26,7 +27,8 @@
       "grid": 16,
       "tags": [
         "astronaut-helmet"
-      ]
+      ],
+      "defaultCode": 59777
     },
     {
       "paths": [
@@ -37,7 +39,8 @@
       "grid": 16,
       "tags": [
         "bald-eagle"
-      ]
+      ],
+      "defaultCode": 59778
     },
     {
       "paths": [
@@ -48,22 +51,11 @@
         "M85.117 961.461z"
       ],
       "width": 941,
-      "isMulticolor": true,
-      "isMulticolor2": true,
       "grid": 16,
       "tags": [
-        "logo-govicon"
-      ]
-    },
-    {
-      "paths": [
-        "M370.961 333.148l170.594-333.148 160.598 337.929 369.44 59.11-271.647 257.304 57.806 369.657-328.584-178.852-333.582 169.29 68.455-367.919-264.041-264.91 370.961-48.462z"
+        "logo-govicons"
       ],
-      "width": 1072,
-      "grid": 16,
-      "tags": [
-        "star"
-      ]
+      "defaultCode": 59779
     },
     {
       "paths": [
@@ -79,7 +71,8 @@
       "grid": 16,
       "tags": [
         "signal"
-      ]
+      ],
+      "defaultCode": 59784
     },
     {
       "paths": [
@@ -94,7 +87,19 @@
       "grid": 16,
       "tags": [
         "space-shuttle"
-      ]
+      ],
+      "defaultCode": 59785
+    },
+    {
+      "paths": [
+        "M370.961 333.148l170.594-333.148 160.598 337.929 369.44 59.11-271.647 257.304 57.806 369.657-328.584-178.852-333.582 169.29 68.455-367.919-264.041-264.91 370.961-48.462z"
+      ],
+      "width": 1072,
+      "grid": 16,
+      "tags": [
+        "star"
+      ],
+      "defaultCode": 59786
     },
     {
       "paths": [
@@ -1673,12 +1678,11 @@
         "M756.772 890.285v-170.497h-65.842l-124.368 166.839v65.232h119.49v72.141h70.516v-72.141h35.969v-60.964zM624.479 890.285c20.321-26.012 40.643-52.429 60.964-78.035v78.035z",
         "M1023.594 849.642c-0.688-25.685-5.471-50.038-13.718-72.728l0.509 1.603c-6.437-18.337-17.38-33.734-31.526-45.38l-0.175-0.14c-14.356-10.979-32.275-17.984-51.773-19.091l-0.25-0.011c-3.767-0.434-8.132-0.681-12.555-0.681-17.087 0-33.311 3.693-47.918 10.325l0.728-0.296c-14.49 7.221-26.325 17.883-34.746 30.952l-0.207 0.343c-7.944 12.436-14.174 26.885-17.889 42.314l-0.197 0.97c-4.525 19.108-7.12 41.047-7.12 63.592 0 0.72 0.003 1.439 0.008 2.157l-0.001-0.111c-0.094 2.86-0.147 6.222-0.147 9.596 0 23.746 2.645 46.875 7.656 69.108l-0.396-2.092c4.281 19.576 12.412 36.781 23.606 51.535l-0.236-0.325c9.591 12.559 22.505 22.13 37.433 27.46l0.568 0.177c11.836 3.96 25.465 6.245 39.627 6.245s27.791-2.285 40.537-6.507l-0.91 0.261c13.618-4.843 25.156-12.651 34.282-22.692l0.061-0.068c11.888-13.623 20.825-30.139 25.62-48.337l0.188-0.841c5.036-17.732 8.256-38.214 8.931-59.339l0.010-0.406s0.813-24.995 0-37.595zM881.343 842.529c-0-0.121-0.001-0.265-0.001-0.409 0-17.673 2.976-34.652 8.455-50.461l-0.326 1.082c3.028-8.816 10.081-15.533 18.905-18.038l0.198-0.048c1.903-0.49 4.087-0.771 6.337-0.771 6.415 0 12.297 2.287 16.873 6.090l-0.043-0.035c6.643 6.881 11.335 15.687 13.161 25.5l0.048 0.309c2.946 13.918 4.647 29.919 4.674 46.312l0 0.021c0 15.851 0 31.702 0 47.552-0.48 15.415-3.27 30.021-8.033 43.702l0.311-1.027c-2.625 8.281-8.301 14.948-15.675 18.815l-0.175 0.084c-3.122 1.461-6.779 2.313-10.635 2.313-6.162 0-11.816-2.177-16.234-5.803l0.045 0.036c-5.563-5.417-9.676-12.297-11.718-20.018l-0.068-0.303c-3.283-13.296-5.27-28.614-5.485-44.36l-0.002-0.144c0-16.257 0-32.718 0-49.178z"
       ],
-      "isMulticolor": true,
       "grid": 16,
       "tags": [
-        "540",
-        "logo"
-      ]
+        "540"
+      ],
+      "defaultCode": 59648
     }
   ],
   "height": 1024,
@@ -1688,10 +1692,10 @@
     "license": "",
     "licenseURL": "",
     "importSize": {
-      "width": 38,
-      "height": 47
+      "width": 50,
+      "height": 50
     },
-    "iconsHash": 1319109879
+    "iconsHash": 967859740
   },
   "preferences": {
     "showGlyphs": true,
@@ -1703,7 +1707,7 @@
       "metadata": {
         "fontFamily": "govicons-webfont",
         "majorVersion": 1,
-        "minorVersion": 4,
+        "minorVersion": 6,
         "description": "Government font and css toolkit",
         "licenseURL": "",
         "license": "",
@@ -1755,495 +1759,509 @@
   },
   "selection": [
     {
-      "order": 2,
-      "name": "anchor"
+      "order": 0,
+      "name": "anchor",
+      "prevSize": 32
     },
     {
-      "order": 3,
-      "name": "astronaut-helmet"
+      "order": 0,
+      "name": "astronaut-helmet",
+      "prevSize": 32
     },
     {
-      "order": 4,
-      "name": "bald-eagle"
+      "order": 0,
+      "name": "bald-eagle",
+      "prevSize": 32
     },
     {
-      "order": 5,
-      "name": "logo-govicon"
+      "order": 0,
+      "name": "logo-govicons",
+      "prevSize": 32,
+      "codes": [
+        59779,
+        59780,
+        59781,
+        59782,
+        59783
+      ]
     },
     {
-      "order": 6,
-      "name": "star"
+      "order": 0,
+      "name": "signal",
+      "prevSize": 32
     },
     {
-      "order": 7,
-      "name": "signal"
+      "order": 0,
+      "name": "space-shuttle",
+      "prevSize": 32
     },
     {
-      "order": 8,
-      "name": "space-shuttle"
+      "order": 0,
+      "name": "star",
+      "prevSize": 32
     },
     {
-      "order": 9,
+      "order": 0,
       "name": "ambulance",
       "prevSize": 32
     },
     {
-      "order": 10,
+      "order": 0,
       "name": "factory",
       "prevSize": 32
     },
     {
-      "order": 11,
+      "order": 0,
       "name": "file-excel",
       "prevSize": 32
     },
     {
-      "order": 12,
+      "order": 0,
       "name": "file-word",
       "prevSize": 32
     },
     {
-      "order": 13,
+      "order": 0,
       "name": "hard-hat",
       "prevSize": 32
     },
     {
-      "order": 14,
+      "order": 0,
       "name": "jefferson-memorial",
       "prevSize": 32
     },
     {
-      "order": 15,
+      "order": 0,
       "name": "lincoln-memorial",
       "prevSize": 32
     },
     {
-      "order": 16,
+      "order": 0,
       "name": "metro-front",
       "prevSize": 32
     },
     {
-      "order": 17,
+      "order": 0,
       "name": "pallet",
       "prevSize": 32
     },
     {
-      "order": 18,
+      "order": 0,
       "name": "poison",
       "prevSize": 32
     },
     {
-      "order": 19,
+      "order": 0,
       "name": "poison-bottle",
       "prevSize": 32
     },
     {
-      "order": 20,
+      "order": 0,
       "name": "train-front",
       "prevSize": 32
     },
     {
-      "order": 21,
+      "order": 0,
       "name": "wheel-barrow",
       "prevSize": 32
     },
     {
-      "order": 22,
+      "order": 0,
       "name": "white-house",
       "prevSize": 32
     },
     {
-      "order": 23,
+      "order": 0,
       "name": "barcode",
       "prevSize": 32
     },
     {
-      "order": 24,
+      "order": 0,
       "name": "ruler",
       "prevSize": 32
     },
     {
-      "order": 25,
+      "order": 0,
       "name": "construction",
       "prevSize": 32
     },
     {
-      "order": 26,
+      "order": 0,
       "name": "fingerprint",
       "prevSize": 32
     },
     {
-      "order": 27,
+      "order": 0,
       "name": "security-camera",
       "prevSize": 32
     },
     {
-      "order": 28,
+      "order": 0,
       "name": "textile",
       "prevSize": 32
     },
     {
-      "order": 29,
+      "order": 0,
       "name": "leaf",
       "prevSize": 32
     },
     {
-      "order": 30,
+      "order": 0,
       "name": "nuclear-plant",
       "prevSize": 32
     },
     {
-      "order": 31,
+      "order": 0,
       "name": "radioactive",
       "prevSize": 32
     },
     {
-      "order": 32,
+      "order": 0,
       "name": "biohazard",
       "prevSize": 32
     },
     {
-      "order": 33,
+      "order": 0,
       "name": "recycle",
       "prevSize": 32
     },
     {
-      "order": 34,
+      "order": 0,
       "name": "lightbulb",
       "prevSize": 32
     },
     {
-      "order": 35,
+      "order": 0,
       "prevSize": 32,
       "name": "search"
     },
     {
-      "order": 36,
+      "order": 0,
       "prevSize": 32,
       "name": "comment"
     },
     {
-      "order": 37,
+      "order": 0,
       "prevSize": 32,
       "name": "comments"
     },
     {
-      "order": 38,
+      "order": 0,
       "prevSize": 32,
       "name": "tools"
     },
     {
-      "order": 39,
+      "order": 0,
       "prevSize": 32,
       "name": "book"
     },
     {
-      "order": 40,
+      "order": 0,
       "name": "script",
       "prevSize": 32
     },
     {
-      "order": 41,
+      "order": 0,
       "prevSize": 32,
       "name": "clock-o"
     },
     {
-      "order": 42,
+      "order": 0,
       "name": "code",
       "prevSize": 32
     },
     {
-      "order": 43,
+      "order": 0,
       "name": "cloud-o",
       "prevSize": 32
     },
     {
-      "order": 44,
+      "order": 0,
       "name": "cloud",
       "prevSize": 32
     },
     {
-      "order": 45,
+      "order": 0,
       "name": "database",
       "prevSize": 32
     },
     {
-      "order": 46,
+      "order": 0,
       "name": "pie-chart",
       "prevSize": 32
     },
     {
-      "order": 47,
+      "order": 0,
       "name": "bar-chart",
       "prevSize": 32
     },
     {
-      "order": 48,
+      "order": 0,
       "name": "line-chart",
       "prevSize": 32
     },
     {
-      "order": 49,
+      "order": 0,
       "prevSize": 32,
       "name": "briefcase"
     },
     {
-      "order": 50,
+      "order": 0,
       "prevSize": 32,
       "name": "medkit"
     },
     {
-      "order": 51,
+      "order": 0,
       "name": "stethoscope",
       "prevSize": 32
     },
     {
-      "order": 52,
+      "order": 0,
       "name": "microscope",
       "prevSize": 32
     },
     {
-      "order": 53,
+      "order": 0,
       "name": "dna",
       "prevSize": 32
     },
     {
-      "order": 54,
+      "order": 0,
       "name": "heartbeat",
       "prevSize": 32
     },
     {
-      "order": 55,
+      "order": 0,
       "name": "road-sign",
       "prevSize": 32
     },
     {
-      "order": 56,
+      "order": 0,
       "name": "road",
       "prevSize": 32
     },
     {
-      "order": 57,
+      "order": 0,
       "name": "road-barricade",
       "prevSize": 32
     },
     {
-      "order": 58,
+      "order": 0,
       "name": "bus-front",
       "prevSize": 32
     },
     {
-      "order": 59,
+      "order": 0,
       "name": "truck-front",
       "prevSize": 32
     },
     {
-      "order": 60,
+      "order": 0,
       "name": "truck",
       "prevSize": 32
     },
     {
-      "order": 61,
+      "order": 0,
       "prevSize": 32,
       "name": "ship-front"
     },
     {
-      "order": 62,
+      "order": 0,
       "name": "submarine",
       "prevSize": 32
     },
     {
-      "order": 63,
+      "order": 0,
       "name": "radar",
       "prevSize": 32
     },
     {
-      "order": 64,
+      "order": 0,
       "name": "tank",
       "prevSize": 32
     },
     {
-      "order": 65,
+      "order": 0,
       "name": "drone",
       "prevSize": 32
     },
     {
-      "order": 66,
+      "order": 0,
       "name": "helicopter",
       "prevSize": 32
     },
     {
-      "order": 67,
+      "order": 0,
       "name": "airplane",
       "prevSize": 32
     },
     {
-      "order": 68,
+      "order": 0,
       "name": "jet",
       "prevSize": 32
     },
     {
-      "order": 69,
+      "order": 0,
       "prevSize": 32,
       "name": "gun"
     },
     {
-      "order": 70,
+      "order": 0,
       "name": "reticle-dot",
       "prevSize": 32
     },
     {
-      "order": 71,
+      "order": 0,
       "name": "reticle-crosshair",
       "prevSize": 32
     },
     {
-      "order": 72,
+      "order": 0,
       "prevSize": 32,
       "name": "ammo"
     },
     {
-      "order": 73,
+      "order": 0,
       "name": "missile",
       "prevSize": 32
     },
     {
-      "order": 74,
+      "order": 0,
       "name": "satellite",
       "prevSize": 32
     },
     {
-      "order": 75,
+      "order": 0,
       "name": "desktop",
       "prevSize": 32
     },
     {
-      "order": 76,
+      "order": 0,
       "name": "mobile",
       "prevSize": 32
     },
     {
-      "order": 77,
+      "order": 0,
       "name": "tablet",
       "prevSize": 32
     },
     {
-      "order": 78,
+      "order": 0,
       "name": "times",
       "prevSize": 32
     },
     {
-      "order": 79,
+      "order": 0,
       "name": "check",
       "prevSize": 32
     },
     {
-      "order": 80,
+      "order": 0,
       "name": "check-square-o",
       "prevSize": 32
     },
     {
-      "order": 81,
+      "order": 0,
       "name": "warning",
       "prevSize": 32
     },
     {
-      "order": 82,
+      "order": 0,
       "name": "dogtags",
       "prevSize": 32
     },
     {
-      "order": 83,
+      "order": 0,
       "name": "medal-circle",
       "prevSize": 32
     },
     {
-      "order": 84,
+      "order": 0,
       "name": "medal-star",
       "prevSize": 32
     },
     {
-      "order": 85,
+      "order": 0,
       "prevSize": 32,
       "name": "ribbon"
     },
     {
-      "order": 86,
+      "order": 0,
       "name": "key",
       "prevSize": 32
     },
     {
-      "order": 87,
+      "order": 0,
       "prevSize": 32,
       "name": "folder"
     },
     {
-      "order": 88,
+      "order": 0,
       "name": "folder-misc",
       "prevSize": 32
     },
     {
-      "order": 89,
+      "order": 0,
       "name": "table",
       "prevSize": 32
     },
     {
-      "order": 90,
+      "order": 0,
       "name": "tables",
       "prevSize": 32
     },
     {
-      "order": 91,
+      "order": 0,
       "name": "unlock",
       "prevSize": 32
     },
     {
-      "order": 92,
+      "order": 0,
       "name": "lock",
       "prevSize": 32
     },
     {
-      "order": 93,
+      "order": 0,
       "name": "cog",
       "prevSize": 32
     },
     {
-      "order": 94,
+      "order": 0,
       "name": "cogs",
       "prevSize": 32
     },
     {
-      "order": 95,
+      "order": 0,
       "name": "money",
       "prevSize": 32
     },
     {
-      "order": 96,
+      "order": 0,
       "name": "usd",
       "prevSize": 32
     },
     {
-      "order": 97,
+      "order": 0,
       "name": "shield-o",
       "prevSize": 32
     },
     {
-      "order": 98,
+      "order": 0,
       "name": "shield",
       "prevSize": 32
     },
     {
-      "order": 99,
+      "order": 0,
       "name": "us-shield",
       "prevSize": 32
     },
     {
-      "order": 100,
+      "order": 0,
       "prevSize": 32,
       "name": "vote"
     },
     {
-      "order": 101,
+      "order": 0,
       "name": "us-tophat",
       "prevSize": 32,
       "codes": [
@@ -2251,189 +2269,188 @@
       ]
     },
     {
-      "order": 102,
+      "order": 0,
       "name": "elephant",
       "prevSize": 32
     },
     {
-      "order": 103,
+      "order": 0,
       "name": "donkey",
       "prevSize": 32
     },
     {
-      "order": 104,
+      "order": 0,
       "name": "balance",
       "prevSize": 32
     },
     {
-      "order": 105,
+      "order": 0,
       "prevSize": 32,
       "name": "gavel"
     },
     {
-      "order": 106,
+      "order": 0,
       "prevSize": 32,
       "name": "handshake"
     },
     {
-      "order": 107,
+      "order": 0,
       "prevSize": 32,
       "name": "user-military"
     },
     {
-      "order": 108,
+      "order": 0,
       "name": "user-politician",
       "prevSize": 32
     },
     {
-      "order": 109,
+      "order": 0,
       "prevSize": 32,
       "name": "user-suit"
     },
     {
-      "order": 110,
+      "order": 0,
       "prevSize": 32,
       "name": "user-graduate"
     },
     {
-      "order": 111,
+      "order": 0,
       "name": "user",
       "prevSize": 32
     },
     {
-      "order": 112,
+      "order": 0,
       "name": "users",
       "prevSize": 32
     },
     {
-      "order": 113,
+      "order": 0,
       "name": "presenter",
       "prevSize": 32
     },
     {
-      "order": 114,
+      "order": 0,
       "name": "file-word-o",
       "prevSize": 32
     },
     {
-      "order": 115,
+      "order": 0,
       "name": "file-excel-o",
       "prevSize": 32
     },
     {
-      "order": 116,
+      "order": 0,
       "prevSize": 32,
       "name": "file-contract-o"
     },
     {
-      "order": 117,
+      "order": 0,
       "prevSize": 32,
       "name": "file-text-o"
     },
     {
-      "order": 118,
+      "order": 0,
       "name": "file-text",
       "prevSize": 32
     },
     {
-      "order": 119,
+      "order": 0,
       "name": "file-o",
       "prevSize": 32
     },
     {
-      "order": 120,
+      "order": 0,
       "prevSize": 32,
       "name": "file"
     },
     {
-      "order": 121,
+      "order": 0,
       "name": "id-card-o",
       "prevSize": 32
     },
     {
-      "order": 122,
+      "order": 0,
       "name": "id-card",
       "prevSize": 32
     },
     {
-      "order": 123,
+      "order": 0,
       "name": "us-flag-wavy",
       "prevSize": 32
     },
     {
-      "order": 124,
+      "order": 0,
       "name": "us-flag-straight",
       "prevSize": 32
     },
     {
-      "order": 125,
+      "order": 0,
       "prevSize": 32,
       "name": "dc-flag"
     },
     {
-      "order": 126,
+      "order": 0,
       "prevSize": 32,
       "name": "dc-map"
     },
     {
-      "order": 127,
+      "order": 0,
       "name": "us-map",
       "prevSize": 32
     },
     {
-      "order": 128,
+      "order": 0,
       "name": "world",
       "prevSize": 32
     },
     {
-      "order": 129,
+      "order": 0,
       "name": "statue-of-liberty, sol",
       "prevSize": 32
     },
     {
-      "order": 130,
+      "order": 0,
       "name": "liberty-bell",
       "prevSize": 32
     },
     {
-      "order": 131,
+      "order": 0,
       "name": "washington-monument",
       "prevSize": 32
     },
     {
-      "order": 132,
+      "order": 0,
       "name": "capitol",
       "prevSize": 32
     },
     {
-      "order": 133,
+      "order": 0,
       "name": "pentagon",
       "prevSize": 32
     },
     {
-      "order": 134,
+      "order": 0,
       "name": "building",
       "prevSize": 32
     },
     {
-      "order": 135,
+      "order": 0,
       "name": "18F-logo, 18f",
       "prevSize": 32
     },
     {
-      "order": 136,
+      "order": 0,
       "name": "540-fedapi, fedapi",
       "prevSize": 32
     },
     {
-      "order": 137,
-      "name": "540-logo, 540"
+      "order": 0,
+      "name": "540-logo, 540",
+      "prevSize": 32
     }
   ],
   "prevSize": 32,
-  "colorThemes": [
-    
-  ],
+  "colorThemes": [],
   "colorThemeIdx": 0,
   "IcoMoonType": "icon-set"
 }

@@ -1651,7 +1651,7 @@
       ],
       "grid": 16,
       "tags": [
-        "18F-logo"
+        "18f-logo"
       ],
       "defaultCode": 59761
     },
@@ -2435,7 +2435,7 @@
     },
     {
       "order": 0,
-      "name": "18F-logo, 18f",
+      "name": "18f-logo, 18f",
       "prevSize": 32
     },
     {

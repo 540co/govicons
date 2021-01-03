@@ -331,7 +331,7 @@ readers do not read off random characters that represent icons */
   content: '\e970';
 }
 .gi-18f:before,
-.gi-18F-logo:before {
+.gi-18f-logo:before {
   content: '\e971';
 }
 .gi-sol:before,

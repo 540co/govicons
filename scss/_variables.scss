@@ -1,16 +1,24 @@
 // Variables
 // --------------------------
 
-$gi-font-path:        "../fonts" !default;
-$gi-font-size-base:   14px !default;
+$gi-font-path: '../fonts' !default;
+$gi-font-size-base: 14px !default;
 $gi-line-height-base: 1 !default;
-$gi-css-prefix:       gi !default;
-$gi-version:          "1.4.0" !default;
-$gi-border-color:     #eee !default;
-$gi-inverse:          #fff !default;
-$gi-li-width:         (30em / 14) !default;
+$gi-css-prefix: gi !default;
+$gi-version: '1.6.0' !default;
+$gi-border-color: #eee !default;
+$gi-inverse: #fff !default;
+$gi-li-width: (30em / 14) !default;
 
 $govicons: (
+  anchor: \e97f,
+  astronaut-helmet: \e981,
+  bald-eagle: \e982,
+  govicons-logo: \e983,
+  logo-govicons: \e983,
+  star: \e98a,
+  signal: \e988,
+  space-shuttle: \e989,
   ambulance: \e980,
   factory: \e972,
   file-excel: \e973,
@@ -45,7 +53,7 @@ $govicons: (
   medal-circle: \e96f,
   medal-star: \e970,
   18f: \e971,
-  18F-logo: \e971,
+  18f-logo: \e971,
   security-camera: \e94f,
   textile: \e950,
   leaf: \e951,
@@ -152,5 +160,5 @@ $govicons: (
   fedapi: \e933,
   540-fedapi: \e933,
   540-logo: \e900,
-  540: \e900
+  540: \e900,
 );
